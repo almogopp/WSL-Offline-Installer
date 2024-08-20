@@ -29,7 +29,7 @@ This script automates the offline installation of Windows Subsystem for Linux (W
 
 ### Step 1: Download the Linux Distribution
 
-1. Visit the [WSL Linux Distributions Download Page]([https://aka.ms/wslstorepage]) OR (https://learn.microsoft.com/en-us/windows/wsl/install-manual#downloading-distributions).
+1. Visit the [WSL Linux Distributions Download Page]([https://aka.ms/wslstorepage]) (https://learn.microsoft.com/en-us/windows/wsl/install-manual#downloading-distributions).
 2. Download the desired Linux distribution as an Appx file.
 3. Save the file on your local machine in a directory that is easy to access.
 
